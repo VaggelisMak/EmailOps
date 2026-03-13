@@ -1,0 +1,10 @@
+---
+
+## `requirements.txt`
+
+```txt
+customtkinter
+pandas
+openpyxl
+python-dateutil
+pywin32
