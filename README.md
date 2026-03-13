@@ -1,4 +1,4 @@
-# Email Automation App
+# EmailOps
 
 A Windows desktop application built with Python and CustomTkinter for creating Outlook draft emails, reviewing company contact information from Excel, and automating monthly report email drafts with attachments.
 
@@ -25,4 +25,5 @@ A Windows desktop application built with Python and CustomTkinter for creating O
 Install dependencies with:
 
 ```bash
+
 pip install -r requirements.txt
